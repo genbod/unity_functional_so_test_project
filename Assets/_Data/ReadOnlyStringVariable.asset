@@ -1,0 +1,50 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 44b2243896fc9c745af15577dcd60b40, type: 3}
+  m_Name: ReadOnlyStringVariable
+  m_EditorClassIdentifier: 
+  serializationData:
+    SerializedFormat: 2
+    SerializedBytes: 
+    ReferencedUnityObjects: []
+    SerializedBytesString: 
+    Prefab: {fileID: 0}
+    PrefabModificationsReferencedUnityObjects: []
+    PrefabModifications: []
+    SerializationNodes:
+    - Name: _lock
+      Entry: 5
+      Data: true
+    - Name: DefaultValue
+      Entry: 7
+      Data: Option`1[[System.String, mscorlib]], Assembly-CSharp
+    - Name: value
+      Entry: 6
+      Data: 
+    - Name: isSome
+      Entry: 5
+      Data: false
+    - Name: 
+      Entry: 8
+      Data: 
+    - Name: _value
+      Entry: 7
+      Data: Option`1[[System.String, mscorlib]], Assembly-CSharp
+    - Name: value
+      Entry: 1
+      Data: This is a Read-Only String Value
+    - Name: isSome
+      Entry: 5
+      Data: true
+    - Name: 
+      Entry: 8
+      Data: 

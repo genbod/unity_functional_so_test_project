@@ -1,0 +1,3 @@
+[submodule "Assets/DragonDogStudios"]
+	path = Assets/DragonDogStudios
+	url = https://github.com/genbod/unity_functional_so.git
