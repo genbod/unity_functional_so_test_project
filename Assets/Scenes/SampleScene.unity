@@ -183,8 +183,6 @@ MonoBehaviour:
   m_OnCullStateChanged:
     m_PersistentCalls:
       m_Calls: []
-    m_TypeName: UnityEngine.UI.MaskableGraphic+CullStateChangedEvent, UnityEngine.UI,
-      Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
   m_FontData:
     m_Font: {fileID: 10102, guid: 0000000000000000e000000000000000, type: 0}
     m_FontSize: 14
@@ -340,8 +338,6 @@ MonoBehaviour:
   m_OnCullStateChanged:
     m_PersistentCalls:
       m_Calls: []
-    m_TypeName: UnityEngine.UI.MaskableGraphic+CullStateChangedEvent, UnityEngine.UI,
-      Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
   m_FontData:
     m_Font: {fileID: 10102, guid: 0000000000000000e000000000000000, type: 0}
     m_FontSize: 14
@@ -355,7 +351,7 @@ MonoBehaviour:
     m_HorizontalOverflow: 0
     m_VerticalOverflow: 0
     m_LineSpacing: 1
-  m_Text: This is Text from the Dial
+  m_Text: Even Better
 --- !u!222 &238678841
 CanvasRenderer:
   m_ObjectHideFlags: 0
@@ -657,8 +653,6 @@ MonoBehaviour:
   m_OnCullStateChanged:
     m_PersistentCalls:
       m_Calls: []
-    m_TypeName: UnityEngine.UI.MaskableGraphic+CullStateChangedEvent, UnityEngine.UI,
-      Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
   m_FontData:
     m_Font: {fileID: 10102, guid: 0000000000000000e000000000000000, type: 0}
     m_FontSize: 14
@@ -834,8 +828,6 @@ MonoBehaviour:
   m_OnCullStateChanged:
     m_PersistentCalls:
       m_Calls: []
-    m_TypeName: UnityEngine.UI.MaskableGraphic+CullStateChangedEvent, UnityEngine.UI,
-      Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
   m_FontData:
     m_Font: {fileID: 10102, guid: 0000000000000000e000000000000000, type: 0}
     m_FontSize: 14
@@ -929,8 +921,6 @@ MonoBehaviour:
   m_OnCullStateChanged:
     m_PersistentCalls:
       m_Calls: []
-    m_TypeName: UnityEngine.UI.MaskableGraphic+CullStateChangedEvent, UnityEngine.UI,
-      Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
   m_FontData:
     m_Font: {fileID: 10102, guid: 0000000000000000e000000000000000, type: 0}
     m_FontSize: 14
@@ -1075,8 +1065,6 @@ MonoBehaviour:
           m_StringArgument: 
           m_BoolArgument: 0
         m_CallState: 2
-    m_TypeName: UnityEngine.UI.Button+ButtonClickedEvent, UnityEngine.UI, Version=1.0.0.0,
-      Culture=neutral, PublicKeyToken=null
 --- !u!114 &942163363
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -1095,8 +1083,6 @@ MonoBehaviour:
   m_OnCullStateChanged:
     m_PersistentCalls:
       m_Calls: []
-    m_TypeName: UnityEngine.UI.MaskableGraphic+CullStateChangedEvent, UnityEngine.UI,
-      Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
   m_Sprite: {fileID: 10905, guid: 0000000000000000f000000000000000, type: 0}
   m_Type: 1
   m_PreserveAspect: 0
@@ -1127,10 +1113,10 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   _data:
-    _json: '{"nest":{"source":"Embed","macro":null,"embed":{"variables":{"collection":{"$content":[],"$version":"A"},"$version":"A"},"controlInputDefinitions":[],"controlOutputDefinitions":[],"valueInputDefinitions":[],"valueOutputDefinitions":[],"title":null,"summary":null,"pan":{"x":0.0,"y":0.0},"zoom":1.0,"elements":[{"coroutine":false,"defaultValues":{},"position":{"x":-204.0,"y":-144.0},"guid":"8411882f-aedb-4509-b0ba-eeefd56f5b28","$version":"A","$type":"Bolt.Start"},{"coroutine":false,"defaultValues":{},"position":{"x":-204.0,"y":60.0},"guid":"c6b8fa58-eabb-43c6-b5fd-4f0eec818b2d","$version":"A","$type":"Bolt.Update"},{"coroutine":false,"defaultValues":{"target":null},"position":{"x":-23.0,"y":-151.0},"guid":"9a1c188c-3fbb-4dfd-9873-ba0d5377b7ea","$version":"A","$type":"Bolt.OnButtonClick","$id":"14"},{"chainable":false,"member":{"name":"SetValue","parameterTypes":["System.String"],"targetType":"StringVariable","targetTypeName":"StringVariable","$version":"A"},"defaultValues":{"target":{"$content":0,"$type":"UnityEngine.Object"},"%newValue":{"$content":"ERROR!  I
-      should not be able to change this.","$type":"System.String"}},"position":{"x":320.0,"y":-151.0},"guid":"e8b529da-3b2d-4dcf-b0cc-053c5c6630a6","$version":"A","$type":"Bolt.InvokeMember","$id":"16"},{"sourceUnit":{"$ref":"14"},"sourceKey":"trigger","destinationUnit":{"$ref":"16"},"destinationKey":"enter","guid":"e342d5c1-9d2e-45c9-961b-17a6f3769498","$type":"Bolt.ControlConnection"}],"$version":"A"}}}'
+    _json: '{"nest":{"source":"Embed","macro":null,"embed":{"variables":{"collection":{"$content":[],"$version":"A"},"$version":"A"},"controlInputDefinitions":[],"controlOutputDefinitions":[],"valueInputDefinitions":[],"valueOutputDefinitions":[],"title":null,"summary":null,"pan":{"x":0.0,"y":0.0},"zoom":1.0,"elements":[{"coroutine":false,"defaultValues":{},"position":{"x":-204.0,"y":-144.0},"guid":"8411882f-aedb-4509-b0ba-eeefd56f5b28","$version":"A","$type":"Bolt.Start"},{"coroutine":false,"defaultValues":{},"position":{"x":-204.0,"y":60.0},"guid":"c6b8fa58-eabb-43c6-b5fd-4f0eec818b2d","$version":"A","$type":"Bolt.Update"},{"coroutine":false,"defaultValues":{"target":null},"position":{"x":-23.0,"y":-151.0},"guid":"9a1c188c-3fbb-4dfd-9873-ba0d5377b7ea","$version":"A","$type":"Bolt.OnButtonClick","$id":"14"},{"chainable":false,"member":{"name":"SetValue","parameterTypes":["System.String"],"targetType":"StringVariable","targetTypeName":"StringVariable","$version":"A"},"defaultValues":{"target":{"$content":0,"$type":"UnityEngine.Object"},"%newValue":{"$content":"Even
+      Better","$type":"System.String"}},"position":{"x":320.0,"y":-151.0},"guid":"e8b529da-3b2d-4dcf-b0cc-053c5c6630a6","$version":"A","$type":"Bolt.InvokeMember","$id":"16"},{"sourceUnit":{"$ref":"14"},"sourceKey":"trigger","destinationUnit":{"$ref":"16"},"destinationKey":"enter","guid":"185859ea-ef1f-4df8-9bae-d1ea08223ed9","$type":"Bolt.ControlConnection"}],"$version":"A"}}}'
     _objectReferences:
-    - {fileID: 11400000, guid: 23a028fe03a5c404f9a357337a86ef6d, type: 2}
+    - {fileID: 114656398802767836, guid: 86817b0b5f9cfd54aa3a09eca5982d4b, type: 2}
 --- !u!1 &1070039079
 GameObject:
   m_ObjectHideFlags: 0
@@ -1202,8 +1188,6 @@ MonoBehaviour:
   m_OnCullStateChanged:
     m_PersistentCalls:
       m_Calls: []
-    m_TypeName: UnityEngine.UI.MaskableGraphic+CullStateChangedEvent, UnityEngine.UI,
-      Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
   m_FontData:
     m_Font: {fileID: 10102, guid: 0000000000000000e000000000000000, type: 0}
     m_FontSize: 14
@@ -1359,8 +1343,6 @@ MonoBehaviour:
   m_OnCullStateChanged:
     m_PersistentCalls:
       m_Calls: []
-    m_TypeName: UnityEngine.UI.MaskableGraphic+CullStateChangedEvent, UnityEngine.UI,
-      Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
   m_FontData:
     m_Font: {fileID: 10102, guid: 0000000000000000e000000000000000, type: 0}
     m_FontSize: 14
@@ -1374,7 +1356,7 @@ MonoBehaviour:
     m_HorizontalOverflow: 0
     m_VerticalOverflow: 0
     m_LineSpacing: 1
-  m_Text: 0
+  m_Text: 1000
 --- !u!222 &1135351406
 CanvasRenderer:
   m_ObjectHideFlags: 0
@@ -1490,8 +1472,6 @@ MonoBehaviour:
           m_StringArgument: 
           m_BoolArgument: 0
         m_CallState: 2
-    m_TypeName: UnityEngine.UI.Button+ButtonClickedEvent, UnityEngine.UI, Version=1.0.0.0,
-      Culture=neutral, PublicKeyToken=null
 --- !u!114 &1213605610
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -1510,8 +1490,6 @@ MonoBehaviour:
   m_OnCullStateChanged:
     m_PersistentCalls:
       m_Calls: []
-    m_TypeName: UnityEngine.UI.MaskableGraphic+CullStateChangedEvent, UnityEngine.UI,
-      Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
   m_Sprite: {fileID: 10905, guid: 0000000000000000f000000000000000, type: 0}
   m_Type: 1
   m_PreserveAspect: 0
@@ -1664,8 +1642,6 @@ MonoBehaviour:
           m_StringArgument: 
           m_BoolArgument: 0
         m_CallState: 2
-    m_TypeName: UnityEngine.UI.Button+ButtonClickedEvent, UnityEngine.UI, Version=1.0.0.0,
-      Culture=neutral, PublicKeyToken=null
 --- !u!114 &1263977954
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -1684,8 +1660,6 @@ MonoBehaviour:
   m_OnCullStateChanged:
     m_PersistentCalls:
       m_Calls: []
-    m_TypeName: UnityEngine.UI.MaskableGraphic+CullStateChangedEvent, UnityEngine.UI,
-      Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
   m_Sprite: {fileID: 10905, guid: 0000000000000000f000000000000000, type: 0}
   m_Type: 1
   m_PreserveAspect: 0
@@ -1816,7 +1790,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   _data:
-    _json: '{"nest":{"source":"Embed","macro":null,"embed":{"variables":{"collection":{"$content":[],"$version":"A"},"$version":"A"},"controlInputDefinitions":[],"controlOutputDefinitions":[],"valueInputDefinitions":[],"valueOutputDefinitions":[],"title":null,"summary":null,"pan":{"x":4.888767,"y":100.0},"zoom":0.9,"elements":[{"coroutine":false,"defaultValues":{"target":null},"position":{"x":-878.0,"y":-146.0},"guid":"45883f75-9b92-4a1b-bf78-3be6bbbec953","$version":"A","$type":"Bolt.OnButtonClick","$id":"10"},{"chainable":false,"member":{"name":"GetValue","parameterTypes":[],"targetType":"IntVariable","targetTypeName":"IntVariable","$version":"A"},"defaultValues":{"target":{"$content":0,"$type":"UnityEngine.Object"}},"position":{"x":-613.0,"y":-101.0},"guid":"2e681c90-17c3-40c1-8579-ff6fb1f7f261","$version":"A","$type":"Bolt.InvokeMember","$id":"12"},{"defaultValues":{"b":{"$content":1000.0,"$type":"System.Single"}},"position":{"x":-289.0,"y":26.0},"guid":"3a19c552-2d8b-41c5-80c0-5e1617b7b1b0","$version":"A","$type":"Bolt.ScalarAdd","$id":"15"},{"chainable":false,"member":{"name":"SetValue","parameterTypes":["System.Int32"],"targetType":"IntVariable","targetTypeName":"IntVariable","$version":"A"},"defaultValues":{"target":{"$content":1,"$type":"UnityEngine.Object"},"%newValue":{"$content":0,"$type":"System.Int32"}},"position":{"x":-49.0,"y":-99.0},"guid":"b3c84076-996a-4ade-8fd8-a486e033bf9b","$version":"A","$type":"Bolt.InvokeMember","$id":"17"},{"sourceUnit":{"$ref":"10"},"sourceKey":"trigger","destinationUnit":{"$ref":"12"},"destinationKey":"enter","guid":"bf6c189a-cc08-418a-bd50-c18a9cfd805e","$type":"Bolt.ControlConnection"},{"sourceUnit":{"$ref":"12"},"sourceKey":"exit","destinationUnit":{"$ref":"17"},"destinationKey":"enter","guid":"175c5c77-be2b-4328-9a87-d406e214456f","$type":"Bolt.ControlConnection"},{"sourceUnit":{"$ref":"12"},"sourceKey":"result","destinationUnit":{"$ref":"15"},"destinationKey":"a","guid":"8382d304-0726-4e7c-be08-a8a3f7149d1e","$type":"Bolt.ValueConnection"},{"sourceUnit":{"$ref":"15"},"sourceKey":"sum","destinationUnit":{"$ref":"17"},"destinationKey":"%newValue","guid":"2f6e77bb-fd75-4e3e-9201-0f369433bcef","$type":"Bolt.ValueConnection"}],"$version":"A"}}}'
+    _json: '{"nest":{"source":"Embed","macro":null,"embed":{"variables":{"collection":{"$content":[],"$version":"A"},"$version":"A"},"controlInputDefinitions":[],"controlOutputDefinitions":[],"valueInputDefinitions":[],"valueOutputDefinitions":[],"title":null,"summary":null,"pan":{"x":-75.67529,"y":30.46085},"zoom":1.0,"elements":[{"coroutine":false,"defaultValues":{"target":null},"position":{"x":-878.0,"y":-146.0},"guid":"45883f75-9b92-4a1b-bf78-3be6bbbec953","$version":"A","$type":"Bolt.OnButtonClick","$id":"10"},{"chainable":false,"member":{"name":"GetValue","parameterTypes":[],"targetType":"IntVariable","targetTypeName":"IntVariable","$version":"A"},"defaultValues":{"target":{"$content":0,"$type":"UnityEngine.Object"}},"position":{"x":-613.0,"y":-101.0},"guid":"2e681c90-17c3-40c1-8579-ff6fb1f7f261","$version":"A","$type":"Bolt.InvokeMember","$id":"12"},{"defaultValues":{"b":{"$content":1000.0,"$type":"System.Single"}},"position":{"x":-289.0,"y":26.0},"guid":"3a19c552-2d8b-41c5-80c0-5e1617b7b1b0","$version":"A","$type":"Bolt.ScalarAdd","$id":"15"},{"chainable":false,"member":{"name":"SetValue","parameterTypes":["System.Int32"],"targetType":"IntVariable","targetTypeName":"IntVariable","$version":"A"},"defaultValues":{"target":{"$content":1,"$type":"UnityEngine.Object"},"%newValue":{"$content":0,"$type":"System.Int32"}},"position":{"x":-49.0,"y":-99.0},"guid":"b3c84076-996a-4ade-8fd8-a486e033bf9b","$version":"A","$type":"Bolt.InvokeMember","$id":"17"},{"sourceUnit":{"$ref":"10"},"sourceKey":"trigger","destinationUnit":{"$ref":"12"},"destinationKey":"enter","guid":"2160296b-354d-4932-8d6f-9caabf8b9e08","$type":"Bolt.ControlConnection"},{"sourceUnit":{"$ref":"12"},"sourceKey":"exit","destinationUnit":{"$ref":"17"},"destinationKey":"enter","guid":"c383ad7c-b990-4451-9130-4d757ffa94b9","$type":"Bolt.ControlConnection"},{"sourceUnit":{"$ref":"12"},"sourceKey":"result","destinationUnit":{"$ref":"15"},"destinationKey":"a","guid":"ea3e48b5-38e2-4dbf-9346-fae520fbdb3c","$type":"Bolt.ValueConnection"},{"sourceUnit":{"$ref":"15"},"sourceKey":"sum","destinationUnit":{"$ref":"17"},"destinationKey":"%newValue","guid":"b49be0ab-041a-43c7-bdb3-c5364bb88c60","$type":"Bolt.ValueConnection"}],"$version":"A"}}}'
     _objectReferences:
     - {fileID: 11400000, guid: 6d80d2fbd5efeea4693a42982ce344b0, type: 2}
     - {fileID: 11400000, guid: 6d80d2fbd5efeea4693a42982ce344b0, type: 2}
@@ -1875,8 +1849,6 @@ MonoBehaviour:
   m_OnClick:
     m_PersistentCalls:
       m_Calls: []
-    m_TypeName: UnityEngine.UI.Button+ButtonClickedEvent, UnityEngine.UI, Version=1.0.0.0,
-      Culture=neutral, PublicKeyToken=null
 --- !u!114 &1631032644
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -1895,8 +1867,6 @@ MonoBehaviour:
   m_OnCullStateChanged:
     m_PersistentCalls:
       m_Calls: []
-    m_TypeName: UnityEngine.UI.MaskableGraphic+CullStateChangedEvent, UnityEngine.UI,
-      Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
   m_Sprite: {fileID: 10905, guid: 0000000000000000f000000000000000, type: 0}
   m_Type: 1
   m_PreserveAspect: 0
@@ -2047,8 +2017,6 @@ MonoBehaviour:
   m_OnCullStateChanged:
     m_PersistentCalls:
       m_Calls: []
-    m_TypeName: UnityEngine.UI.MaskableGraphic+CullStateChangedEvent, UnityEngine.UI,
-      Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
   m_FontData:
     m_Font: {fileID: 10102, guid: 0000000000000000e000000000000000, type: 0}
     m_FontSize: 14
