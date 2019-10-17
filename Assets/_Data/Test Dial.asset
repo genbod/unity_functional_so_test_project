@@ -38,15 +38,18 @@ MonoBehaviour:
     PrefabModificationsReferencedUnityObjects: []
     PrefabModifications: []
     SerializationNodes:
+    - Name: _lock
+      Entry: 5
+      Data: false
     - Name: DefaultValue
       Entry: 7
       Data: Option`1[[System.String, mscorlib]], Assembly-CSharp
     - Name: value
-      Entry: 6
-      Data: 
+      Entry: 1
+      Data: This is a Good Title
     - Name: isSome
       Entry: 5
-      Data: false
+      Data: true
     - Name: 
       Entry: 8
       Data: 
@@ -55,7 +58,7 @@ MonoBehaviour:
       Data: Option`1[[System.String, mscorlib]], Assembly-CSharp
     - Name: value
       Entry: 1
-      Data: This is Text from the Dial
+      Data: This is a Good Title
     - Name: isSome
       Entry: 5
       Data: true
